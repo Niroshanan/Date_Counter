@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Date Counter</string>
+    <string name="description">Event Title</string>
+    <string name="due_date">Due Date</string>
+    <string name="event_added">Event Added</string>
+    <string name="event_deleted">Event Deleted</string>
+    <string name="today">TODAY</string>
+    <string name="one_day">day more</string>
+    <string name="more_days">days more</string>
+    <string name="delete">DELETE EVENT</string>
+    <string name="empty_event">Please Enter Event Name</string>
+
+    <string name="add_button">ADD EVENT</string>
+</resources>
